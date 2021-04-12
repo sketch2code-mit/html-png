@@ -5,9 +5,9 @@ turn html code into png screenshot
 This code is used to turn html into screenshot
 
 
-##Set up
+## Set up
 
-###Prerequisites
+### Prerequisites
 
 -Python 3 
 -pip
