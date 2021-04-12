@@ -9,8 +9,8 @@ This code is used to turn html into screenshot
 
 ### Prerequisites
 
--Python 3 
--pip
+- Python 3 
+- pip
 
 ## Install dependencies
 
